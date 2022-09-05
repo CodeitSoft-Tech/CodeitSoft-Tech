@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Tawiah</h1>
-<h3 align="center">A passionate backend developer from Ghana</h3>
+<h3 align="center">A passionate Data Analyst from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeitsoft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="codeitsoft-tech" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/codeitsoft_tek" target="blank"><img src="https://img.shields.io/twitter/follow/codeitsoft_tek?logo=twitter&style=for-the-badge" alt="codeitsoft_tek" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeitSoft-Tech](https://github.com/CodeitSoft-Tech)
 
-- 💬 Ask me about **JavaScript, PHP, MySQL, Digital Marketing**
+- 💬 Ask me about **Data Analysis, SQL, Python, Microsoft Excel, Power Bi, Web Development**
 
 - 📫 How to reach me **tawiahfrancis13@gmail.com**
 
